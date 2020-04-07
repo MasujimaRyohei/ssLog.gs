@@ -1,5 +1,5 @@
 // スプレッドシートのコンフィグ
-var config = {
+const config = {
     spreadsheetId: 'SHEET_ID',
     sheetName: {
         'log': 'logSheet',
