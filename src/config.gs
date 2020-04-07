@@ -1,4 +1,4 @@
-// スプレッドシートのコンフィグ
+// Configuration.
 const config = {
     spreadsheetId: 'SHEET_ID',
     sheetName: {
